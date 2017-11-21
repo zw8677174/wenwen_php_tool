@@ -1,0 +1,11 @@
+{
+    "name": "zw_8677174/wenwentool_php",
+    "description": "zw8677174 personal php tool file",
+    "authors": [
+        {
+            "name": "zw8677174",
+            "email": "1085383440@qq.com"
+        }
+    ],
+    "require": {}
+}
