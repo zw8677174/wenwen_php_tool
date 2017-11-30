@@ -18,12 +18,15 @@ class WenWenTool{
             'email' => '1085383440@qq.com'
         )
     );
-
+    const TAG = 'V1.01';
 
     public function getContributeNames(){
         foreach ( self::CONTRIBUTES as $values){
-            echo $values['name'];
+            return $values['name'];
         }
     }
 
+    public function getTag(){
+        return self::TAG;
+    }
 }
